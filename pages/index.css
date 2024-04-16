@@ -35,7 +35,7 @@
   position: relative;
 }
 
-.nav__list {
+.nav__links {
   display: flex;
   column-gap: 20px;
   justify-content: space-between;
