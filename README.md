@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I would like to add a page for the reusable cups that were mentioned in the About section. Instead of having the images laid out like a list, I think it would be more interesting to have them displayed in a sideshow.
+A way to preorder the cups should be implemented as well.
