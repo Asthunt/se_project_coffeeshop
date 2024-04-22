@@ -7,8 +7,6 @@
 
 .recipes__title {
   max-width: 580px;
-  font-family: "Inter", "Arial", sans-serif;
-  font-style: normal;
   font-weight: 200;
   font-size: 44px;
   line-height: 52px;
@@ -19,8 +17,6 @@
   margin-top: 24px;
   max-width: 438px;
   font-family: "Noto Serif", "Times New Roman", serif;
-  font-style: normal;
-  font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
@@ -42,8 +38,6 @@
   display: flex;
   justify-content: space-between;
   margin-top: 24px;
-  font-family: "Inter", "Arial", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
